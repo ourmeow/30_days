@@ -213,7 +213,6 @@ Each day includes:
 - 📚 Topics: Python Type Errors
 - ✅ Status: Completed
 - 🧩 What I did:
-
   - Explored different types of Python errors
   - Practiced identifying errors in the terminal
   - Read and analyzed error messages to understand their meaning
@@ -223,8 +222,8 @@ Each day includes:
 ---
 
 ## 📊 Overall Progress
-- Days completed: 14 / 30  
-- Completion rate: 46.6%  
+- Days completed: 15 / 30  
+- Completion rate: 50%  
 
 ---
 
