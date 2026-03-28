@@ -10,6 +10,7 @@ The goal is not just to learn syntax, but to **develop a programmer's mindset** 
 ---
 
 ## 📁 Project Structure
+```
 Each file represents a specific day of the challenge and contains practice exercises related to that topic.
 30_days/
 │
@@ -28,7 +29,7 @@ Each file represents a specific day of the challenge and contains practice exerc
 ├── day_12_modules.py
 ├── day_13_list_comprehension.py
 ├── day_14_higher_order_functions.py
-
+```
 ---
 
 ## 🎯 Goals
