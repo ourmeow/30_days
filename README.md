@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Progress](https://img.shields.io/badge/Progress-14%2F30-green)
+![Progress](https://img.shields.io/badge/Progress-15%2F30-green)
 
 # 🚀 30 Days of Python — Journey to AI Engineer
 
