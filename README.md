@@ -9,6 +9,28 @@ The goal is not just to learn syntax, but to **develop a programmer's mindset** 
 
 ---
 
+## 📁 Project Structure
+Each file represents a specific day of the challenge and contains practice exercises related to that topic.
+30_days/
+│
+├── README.md
+├── .gitignore
+│
+├── countries_data.py  # dataset used in exercises
+│
+├── day_05_lists.py
+├── day_06_tuples.py
+├── day_07_sets.py
+├── day_08_dictionaries.py
+├── day_09_conditionals.py
+├── day_10_loops.py
+├── day_11_functions.py
+├── day_12_modules.py
+├── day_13_list_comprehension.py
+├── day_14_higher_order_functions.py
+
+---
+
 ## 🎯 Goals
 - Master Python fundamentals  
 - Understand core concepts (functions, loops, data structures)  
