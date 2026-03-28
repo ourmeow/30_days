@@ -29,6 +29,7 @@ Each file represents a specific day of the challenge and contains practice exerc
 ├── day_12_modules.py
 ├── day_13_list_comprehension.py
 ├── day_14_higher_order_functions.py
+
 ```
 ---
 
@@ -204,6 +205,20 @@ Each day includes:
   - Practiced functional programming concepts  
 - 💡 Insight:
   - Functions can be treated as data, which opens powerful patterns 
+
+---
+
+### Day 15
+
+- 📚 Topics: Python Type Errors
+- ✅ Status: Completed
+- 🧩 What I did:
+
+  - Explored different types of Python errors
+  - Practiced identifying errors in the terminal
+  - Read and analyzed error messages to understand their meaning
+- 💡 Insight:
+  - Error messages are not obstacles — they are guidance. Learning to read them properly is one of the most important debugging skills.
 
 ---
 
