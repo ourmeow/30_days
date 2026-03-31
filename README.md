@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Progress](https://img.shields.io/badge/Progress-15%2F30-green)
+![Progress](https://img.shields.io/badge/Progress-16%2F30-green)
 
 # 🚀 30 Days of Python — Journey to AI Engineer
 
@@ -29,7 +29,7 @@ Each file represents a specific day of the challenge and contains practice exerc
 ├── day_12_modules.py
 ├── day_13_list_comprehension.py
 ├── day_14_higher_order_functions.py
-
+├── day_16_datetime.py
 ```
 ---
 
@@ -220,10 +220,22 @@ Each day includes:
   - Error messages are not obstacles — they are guidance. Learning to read them properly is one of the most important debugging skills.
 
 ---
+### Day 16
+
+* 📚 Topics: Date Time
+* ✅ Status: Completed
+* 🧩 What I did:
+  * Learned how to work with dates and time in Python
+  * Explored the `datetime` module
+  * Practiced creating, formatting, and reading date and time values
+* 💡 Insight:
+  * Working with time is not just about syntax — it is about precision. Even simple programs become much more useful when they can track, format, and compare dates correctly.
+
+---
 
 ## 📊 Overall Progress
-- Days completed: 15 / 30  
-- Completion rate: 50%  
+- Days completed: 16 / 30  
+- Completion rate: 53.3%  
 
 ---
 
