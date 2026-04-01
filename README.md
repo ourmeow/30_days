@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Progress](https://img.shields.io/badge/Progress-16%2F30-green)
+![Progress](https://img.shields.io/badge/Progress-17%2F30-green)
 
 # 🚀 30 Days of Python — Journey to AI Engineer
 
@@ -30,6 +30,7 @@ Each file represents a specific day of the challenge and contains practice exerc
 ├── day_13_list_comprehension.py
 ├── day_14_higher_order_functions.py
 ├── day_16_datetime.py
+├── day_17_exception_handling.py
 ```
 ---
 
@@ -233,9 +234,27 @@ Each day includes:
 
 ---
 
+### Day 17
+
+* 📚 Topics: Exception Handling, Packing & Unpacking
+* ✅ Status: Completed
+* 🧩 What I did:
+
+  * Practiced using `try`, `except`, and `finally` for error handling
+  * Explored different types of exceptions and how to handle them
+  * Learned about tuple and dictionary unpacking
+  * Practiced packing and unpacking with `*` and `**`
+  * Used `enumerate()` for indexed iteration
+  * Explored data spreading and unzipping techniques
+* 💡 Insight:
+
+  * Writing code is not just about making it work — it’s about making it resilient. Exception handling and unpacking techniques make code more flexible, readable, and robust.
+
+---
+
 ## 📊 Overall Progress
-- Days completed: 16 / 30  
-- Completion rate: 53.3%  
+- Days completed: 17 / 30  
+- Completion rate: 56.6%  
 
 ---
 
