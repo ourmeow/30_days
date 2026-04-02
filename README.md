@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Progress](https://img.shields.io/badge/Progress-17%2F30-green)
+![Progress](https://img.shields.io/badge/Progress-18%2F30-green)
 
 # 🚀 30 Days of Python — Journey to AI Engineer
 
@@ -252,9 +252,25 @@ Each day includes:
 
 ---
 
+### Day 18
+
+* 📚 Topics: Regular Expressions (Regex)
+* ✅ Status: Completed
+* 🧩 What I did:
+
+  * Learned how to use regular expressions in Python
+  * Practiced pattern matching using the `re` module
+  * Used functions like `findall()`, `search()`, `split()`, and `sub()`
+  * Explored common regex patterns for text processing
+* 💡 Insight:
+
+  * Regular expressions turn complex text processing into structured logic. Once understood, they become a powerful tool for parsing and validating data.
+
+---
+
 ## 📊 Overall Progress
-- Days completed: 17 / 30  
-- Completion rate: 56.6%  
+- Days completed: 18 / 30  
+- Completion rate: 60%  
 
 ---
 
